@@ -65,7 +65,7 @@ Animation: The Door is animated to an open position by code only, without using 
 ### SignPost Behaviour
 The Maze scene resets to its initial state when the SignPost is clicked, so that the game can be restarted/played again.
 
-### My Reflection and Conclusion (Change This*)
+### My Reflection and Conclusion 
 - It took almost a week for me to complete the "Maze" project, as I worked very closely on it to ensure that it meets all the project specifications.
 - I love working in Unity 3D, as I have keen interest to learn using it inside out. Therefore, I liked almost everything about the project.
 - I really enjoy the fact that I was able to design and develop the "Maze" project from scratch, along with learning the ropes of coding using C#.
