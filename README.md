@@ -6,7 +6,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 
 ### Versions Used
-- [Unity LTS Release 2017.4.19](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
+- [Unity LTS Release 2018.4.0](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
 - [GVR SDK for Unity v1.170.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.100.1)
 
 
@@ -65,19 +65,12 @@ Animation: The Door is animated to an open position by code only, without using 
 ### SignPost Behaviour
 The Maze scene resets to its initial state when the SignPost is clicked, so that the game can be restarted/played again.
 
-
 ### My Reflection and Conclusion (Change This*)
 - It took almost a week for me to complete the "Maze" project, as I worked very closely on it to ensure that it meets all the project specifications.
 - I love working in Unity 3D, as I have keen interest to learn using it inside out. Therefore, I liked almost everything about the project.
 - I really enjoy the fact that I was able to design and develop the "Maze" project from scratch, along with learning the ropes of coding using C#.
-
 - I really enjoyed developing the 'Maze App' with most of the optional features and learned a lot during the process. 
-- I am proud of my Final Project Output.
 
 ### References 
 1. Student Hub. (n.d.). Retrieved May 10, 2019, from https://study-hall.udacity.com/rooms/community:nd105:673753-project-230?contextType=room
 2. Technologies, U. (n.d.). Scripting. Retrieved May 10, 2019, from https://docs.unity3d.com/2017.4/Documentation/Manual/ScriptingSection.html
-
-
-Kind Regards,
-Sujatha.
